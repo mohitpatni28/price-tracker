@@ -2,13 +2,6 @@
   "productId": "prod-4",
   "prices": [
     {
-      "date": "2026-09-20",
-      "price": 1949,
-      "currency": "INR",
-      "status": "success",
-      "rawData": "₹1,949"
-    },
-    {
       "date": "2026-09-21",
       "price": 4050,
       "currency": "INR",
@@ -420,6 +413,13 @@
       "currency": "INR",
       "status": "success",
       "rawData": "₹916"
+    },
+    {
+      "date": "2026-11-19",
+      "price": 997,
+      "currency": "INR",
+      "status": "success",
+      "rawData": "₹997"
     }
   ]
 }
